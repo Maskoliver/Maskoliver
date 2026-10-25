@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="74" viewBox="0 0 880 74" role="img" aria-label="Current focus: exploring local and commercial AI models."><title>Current focus: exploring local and commercial AI models.</title><style>
+ .pulse{animation:pulse 2.4s ease-in-out infinite}.cursor{animation:blink 1.2s steps(1) infinite}.scan{animation:scan 8s linear infinite}
+ @keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}
+ @keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+ @keyframes scan{from{transform:translateX(-160px)}to{transform:translateX(1040px)}}
+ @media(prefers-reduced-motion:reduce){.pulse,.cursor,.scan{animation:none}.scan{opacity:0}}
+ </style><rect x="1" y="1" width="878" height="72" rx="12" fill="#111C1A" stroke="#30443E"/>
+ <circle class="pulse" cx="27" cy="37" r="5" fill="#9CEAC2"/>
+ <text x="44" y="43" fill="#A3B6AD" font-size="13" letter-spacing="1.4" font-family="Consolas,monospace">CURRENT FOCUS</text>
+ <path d="M188 23v28" stroke="#30443E"/>
+ <text x="209" y="44" fill="#D7E9DE" font-size="19" font-family="Consolas,monospace">exploring local + commercial AI models</text>
+ <rect class="cursor" x="619" y="29" width="9" height="19" fill="#9CEAC2"/>
+ <clipPath id="bar"><rect x="12" y="71" width="856" height="2"/></clipPath>
+ <g clip-path="url(#bar)"><rect class="scan" x="0" y="71" width="160" height="2" fill="#9CEAC2" opacity=".7"/></g></svg>

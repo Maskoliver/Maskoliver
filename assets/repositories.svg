@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="232" height="44" viewBox="0 0 232 44" role="img" aria-label="Explore my repositories"><title>Explore my repositories</title><rect x=".5" y=".5" width="231" height="43" rx="8" fill="#152920" stroke="#456C58"/>
+ <path d="M20 14v16m0-13h10v13H20m4-16h9v16" fill="none" stroke="#9CEAC2" stroke-width="1.5" stroke-linejoin="round"/>
+ <text x="45" y="27" fill="#DDEEE3" font-size="14" font-weight="600" font-family="Segoe UI,Arial,sans-serif">Explore repositories</text>
+ <path d="M204 22h10m-4-4 4 4-4 4" fill="none" stroke="#9CEAC2" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>
